@@ -1,0 +1,15 @@
+/Users/aidanmontieth/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.csproj.AssemblyReference.cache
+/Users/aidanmontieth/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanmontieth/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.AssemblyInfoInputs.cache
+/Users/aidanmontieth/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.AssemblyInfo.cs
+/Users/aidanmontieth/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.csproj.CoreCompileInputs.cache
+/Users/aidanmontieth/Desktop/MIS221/PA2/bin/Debug/net6.0/PA2
+/Users/aidanmontieth/Desktop/MIS221/PA2/bin/Debug/net6.0/PA2.deps.json
+/Users/aidanmontieth/Desktop/MIS221/PA2/bin/Debug/net6.0/PA2.runtimeconfig.json
+/Users/aidanmontieth/Desktop/MIS221/PA2/bin/Debug/net6.0/PA2.dll
+/Users/aidanmontieth/Desktop/MIS221/PA2/bin/Debug/net6.0/ref/PA2.dll
+/Users/aidanmontieth/Desktop/MIS221/PA2/bin/Debug/net6.0/PA2.pdb
+/Users/aidanmontieth/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.dll
+/Users/aidanmontieth/Desktop/MIS221/PA2/obj/Debug/net6.0/ref/PA2.dll
+/Users/aidanmontieth/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.pdb
+/Users/aidanmontieth/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.genruntimeconfig.cache
